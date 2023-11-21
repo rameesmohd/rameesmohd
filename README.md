@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 i am currently working in a challenging environment to prove my skills and utilize my knowledge & intelligence in the growth of the organization.<br>
+<p align="left">✨ Creating bugs since 2021<br>📚 "I am actively seeking a dynamic and challenging professional environment where I can leverage my skills, knowledge, and intelligence to contribute significantly to the growth and success of the organization."<br>
 <!--   🎯 Goals: ...<br>🎲 Fun fact: ... -->
 </p>
 
